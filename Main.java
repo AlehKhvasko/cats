@@ -14,6 +14,7 @@ public class Main {
         //plate.info();
 
         /**
+         * *
          * #5 Create an array of random cats and a plate with food and ask cats to eat from this plate.
          * Display results on a screen.
          */
